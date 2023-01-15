@@ -811,6 +811,12 @@ button {
     color: #fffcf4;
     padding-top: 18px;
 }
+
+#location-link {
+    text-decoration: none;
+    color: #fff;
+}
+
 .padding_left_15 {
     padding-left: 15px;
 }
